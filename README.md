@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m William Thanh An Lam
+# 👋 Hi there, I’m William
 
 🎓 3rd-year **Software Engineering student** at Collège de Bois-de-Boulogne, passionate about building **games**, **web applications** and **software tools**.
     I love tackling new challenges and turning my ideas into real projects.
