@@ -59,12 +59,6 @@
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 40px;">
 
-  <!-- GIF animé -->
-  <img
-    src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"  
-    width="250"
-    alt="Programmer Day by Porforever" />
-
   <div style="display: flex; flex-direction: column; gap: 20px;">
     <img
       src="https://github-readme-stats.vercel.app/api?username=PatnaisWilliam&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
@@ -76,7 +70,13 @@
       src="https://github-readme-streak-stats.herokuapp.com/?user=PatnaisWilliam&theme=tokyonight&hide_border=true" />
   </div>
 
+  <img
+    src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" 
+    width="250"
+    alt="Programmer Day by Porforever" />
+
 </div>
+
 
 
 
