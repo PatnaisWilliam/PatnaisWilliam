@@ -65,7 +65,7 @@
 
   <img 
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatnaisWilliam&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatnaisWilliam&layout=donut&theme=tokyonight&hide_border=true&langs_count=5" />
 
 </div>
 
