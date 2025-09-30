@@ -57,9 +57,9 @@
 
 ## 📈 GitHub Stats
 
-<table>
+<table border="0"> 
   <tr>
-    <td>
+    <td style="padding: 10px; border: 2px solid #61dafb; border-radius: 10px;">
       <img
         src="https://github-readme-stats.vercel.app/api?username=PatnaisWilliam&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
       <br>
@@ -69,7 +69,7 @@
       <img
         src="https://github-readme-streak-stats.herokuapp.com/?user=PatnaisWilliam&theme=tokyonight&hide_border=true" />
     </td>
-    <td>
+    <td style="padding: 10px;">
       <img
         src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"
         width="300"
@@ -77,6 +77,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
