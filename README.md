@@ -67,6 +67,11 @@
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatnaisWilliam&layout=donut&theme=tokyonight&hide_border=true&langs_count=5" />
 
+<img 
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=PatnaisWilliam&theme=tokyonight&hide_border=true" />
+    
+
 </div>
 
 
